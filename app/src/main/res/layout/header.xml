@@ -7,17 +7,18 @@
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="171dp"
-        android:layout_height="133dp"
-        app:srcCompat="@drawable/local_library" />
+        android:layout_width="211dp"
+        android:layout_height="161dp"
+        app:srcCompat="@drawable/LOGO" />
 
     <TextView
-        android:layout_width="170dp"
+        android:layout_width="195dp"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="10dp"
+        android:layout_marginLeft="40dp"
         android:fontFamily="@font/noorehuda"
-        android:text="Holy Quran"
+        android:text="My Quran App"
         android:textColor="@color/black"
-        android:textSize="30sp" />
+        android:textSize="25dp"
+        android:textStyle="bold"/>
 
 </LinearLayout>
