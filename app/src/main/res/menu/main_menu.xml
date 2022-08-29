@@ -2,13 +2,35 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home" />
         <item
             android:id="@+id/nav_search"
-            android:icon="@drawable/book"
+            android:icon="@drawable/ic_baseline_search_24"
             android:title="Search" />
 
+        <item
+            android:id="@+id/nav_bookmark"
+            android:icon="@drawable/ic_baseline_bookmark_24"
+            android:title="BookMark" />
 
     </group>
 
+
+    <group android:checkableBehavior="single">
+        <item android:title="Link">
+            <menu>
+                <group>
+                    <item
+                        android:id="@+id/nav_repo"
+                        android:icon="@drawable/ic_baseline_link_24"
+                        android:title="Repository" />
+                </group>
+            </menu>
+        </item>
+    </group>
 
 </menu>
