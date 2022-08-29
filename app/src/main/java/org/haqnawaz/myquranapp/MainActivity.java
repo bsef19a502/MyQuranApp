@@ -8,6 +8,7 @@ import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.MenuItem;
@@ -52,8 +53,19 @@ public class MainActivity extends AppCompatActivity {
             {
                 switch (menuItem.getItemId())
                 {
+                    case R.id.nav_home:
+                        intent = new Intent(MainActivity.this, MainActivity.class);
+                        startActivity(intent);
+                        break;
+
                     case R.id.nav_search:
                         intent = new Intent(MainActivity.this, SearchActivity.class);
+                        startActivity(intent);
+                        break;
+
+                    case R.id.nav_repo:
+
+                        intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/bsef19a502/MyQuranApp"));
                         startActivity(intent);
                         break;
 
