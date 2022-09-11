@@ -9,16 +9,16 @@
         android:id="@+id/imageView2"
         android:layout_width="211dp"
         android:layout_height="161dp"
-        app:srcCompat="@drawable/logo" />
+        app:srcCompat="@drawable/alqurankareem" />
 
     <TextView
         android:layout_width="195dp"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="40dp"
+        android:layout_marginLeft="20dp"
         android:fontFamily="@font/noorehuda"
         android:text="My Quran App"
-        android:textColor="@color/black"
-        android:textSize="25dp"
-        android:textStyle="bold"/>
+        android:textColor="#88189C"
+        android:textSize="30dp"
+        android:textStyle="bold" />
 
 </LinearLayout>

@@ -3,9 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.192" />
         <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/drawable/add_comment.xml" value="0.2225" />
         <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/drawable/book.xml" value="0.2225" />
         <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/drawable/chrome_reader.xml" value="0.2225" />
+        <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.192" />
+        <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/drawable/ic_baseline_bookmark_24.xml" value="0.192" />
+        <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.192" />
+        <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/drawable/ic_baseline_link_24.xml" value="0.192" />
+        <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/drawable/ic_baseline_power_settings_new_24.xml" value="0.192" />
+        <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.192" />
+        <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.192" />
         <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/drawable/insert_comment.xml" value="0.2225" />
         <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/drawable/laptop.xml" value="0.2225" />
         <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/drawable/local_library.xml" value="0.2225" />
@@ -15,12 +23,13 @@
         <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/drawable/voice.xml" value="0.2225" />
         <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
         <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/layout/activity_main2.xml" value="0.11302083333333333" />
-        <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/layout/activity_search.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/layout/activity_main_index.xml" value="0.2" />
+        <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/layout/activity_search.xml" value="0.2" />
         <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/layout/activity_surah.xml" value="0.11302083333333333" />
         <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/layout/header.xml" value="0.21784420289855072" />
         <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/layout/quran_font.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/layout/surah_names.xml" value="0.11302083333333333" />
-        <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/layout/surah_names.xml" value="0.2" />
+        <entry key="..\:/Users/DEll/Desktop/SEMESTER 6/Mobile computing/MyQuranApp/app/src/main/res/menu/main_menu.xml" value="0.1" />
       </map>
     </option>
   </component>

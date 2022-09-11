@@ -16,9 +16,9 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@color/white"
+            android:background="#88189C"
             app:title="Quran App"
-            app:titleTextColor="@color/black" />
+            app:titleTextColor="@color/white" />
 
         <ListView
             android:id="@+id/surahNamesView"
@@ -38,6 +38,8 @@
         android:layout_height="match_parent"
         android:layout_width="wrap_content"
         app:headerLayout="@layout/header"
+        app:itemTextColor="#88189C"
+        app:subheaderColor="#88189C"
         app:menu="@menu/main_menu"
         tools:ignore="MissingConstraints" />
 

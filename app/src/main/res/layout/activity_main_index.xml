@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main_index">
+
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp"
+        tools:ignore="MissingConstraints">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="100dp"
+            android:paddingTop="100dp"
+            android:text=" QURAN APP"
+            android:textStyle="bold"
+            android:textColor="#88189C"
+            android:textSize="35dp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="100dp"
+            android:paddingTop="20dp"
+            android:textStyle="bold"
+            android:paddingBottom="32dp"
+            android:textColor="#C68C37"
+            android:textSize="15dp"
+            android:text="Learn Quran and Recite Everyday" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="match_parent"
+            android:layout_height="326dp"
+            android:paddingBottom="30dp"
+            app:srcCompat="@drawable/purpletheme" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:layout_marginLeft="80dp"
+            android:layout_marginRight="80dp"
+            android:backgroundTint="#C68C37"
+            android:text="Start Reciting"
+            android:textColor="@color/white"
+            android:textSize="18dp" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

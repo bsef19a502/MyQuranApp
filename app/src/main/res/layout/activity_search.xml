@@ -15,6 +15,8 @@
         android:ems="10"
         android:hint="Search"
         android:layout_gravity="center"
+        android:textColor="#88189C"
+        android:textStyle="bold"
         android:inputType="textPersonName"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
